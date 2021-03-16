@@ -13,7 +13,6 @@ const Landing = () => {
             <Projects />
             <Stats />
             <Footer />
-            Hello
         </div>
     )
 }
