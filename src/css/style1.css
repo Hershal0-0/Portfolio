@@ -1,0 +1,88 @@
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: skyblue;
+}
+
+.nav-button{
+    width: fit-content;
+    
+    height: 2rem;
+    padding:5px;
+    margin: 20px 5px 20px 5px;
+    background-color: transparent;
+    border: 2px solid #b342f5 ;
+    border-radius: 20px;
+    text-decoration: none;
+}
+
+.intro{
+    display: flex;
+    justify-content: space-between;
+}
+
+.container{
+    margin-top: 1em;
+    background-color: skyblue;
+}
+
+.footer{
+    height: 80px;
+    width: 100%;
+    left: "0";
+    position: fixed;
+    bottom:0;
+    background-color: skyblue;
+    text-align: center;
+    padding-top: 0.5em;
+}
+
+.icon-padd{
+    padding-right: 3px;
+}
+
+.icon{
+    text-decoration: none;
+    color: black;
+}
+
+.projects{
+    background-color: skyblue;
+    margin-bottom: 0px;
+    
+}
+
+.back-blue{
+    background-color: skyblue;
+}
+
+.rec{
+    margin:0;
+}
+
+.rec.rec-arrow:disabled {
+    visibility: hidden;
+}
+
+.phantom{
+    display: block;
+    padding:20px;
+    margin-top: 10px;
+    height:80px;
+    width:100%;
+}
+.link{
+    text-decoration: none;
+    
+}
+
+.container{
+    border:0 solid black;
+    border-radius: 4px;
+}
+
+.stats{
+    padding-bottom: 5px;
+}
+
